@@ -1,0 +1,14 @@
+#include <iostream>
+
+int main() {
+    using namespace std;
+ int x,y;
+ int add;
+ cout<<"type a number1";
+  cin>>x;
+   cout<<"type a number2";
+     cin>>y;
+     add = x+y;
+cout<<"your number is:" << add;
+return 0;
+}
